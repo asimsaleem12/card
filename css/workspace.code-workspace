@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\my first web side"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "card"
+	}
+}
